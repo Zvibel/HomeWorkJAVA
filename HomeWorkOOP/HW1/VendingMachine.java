@@ -1,4 +1,4 @@
-package HomeWorkOOP.HW1;
+package HomeWork.HomeWorkOOP.HW1;
 import java.util.List;
 
 public class VendingMachine {

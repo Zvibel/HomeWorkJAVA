@@ -1,4 +1,4 @@
-package HomeWorkOOP.HW1;
+package HomeWork.HomeWorkOOP.HW1;
 
 public class Chocolate extends Product{
     

@@ -1,4 +1,4 @@
-package HomeWorkOOP.HW1;
+package HomeWork.HomeWorkOOP.HW1;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -61,7 +61,7 @@ public class Program {
             System.out.println("Такой бутылки с водой нет в автомате.");
         }*/
 
-        Chocolate chocolateResult = vendingMachine.getChocolate(120, "Белый");
+        Chocolate chocolateResult = vendingMachine.getChocolate(150, "Белый");
         if (chocolateResult != null) {
             System.out.println("Вы купили:");
             System.out.println(chocolateResult.displayInfo());
