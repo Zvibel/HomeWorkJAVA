@@ -1,0 +1,9 @@
+package HomeWork.HomeWorkOOP.HW6;
+
+public class Program {
+
+    public static void main(String[] args) {
+
+    }
+
+}
