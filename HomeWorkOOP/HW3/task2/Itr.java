@@ -1,9 +1,7 @@
 package HomeWork.HomeWorkOOP.HW3.task2;
 
 public class Itr extends Employee {
-    private double salaryPerMonth;
-
-
+    
     @Override
     public double getSalary() {
         return super.getSalary();
